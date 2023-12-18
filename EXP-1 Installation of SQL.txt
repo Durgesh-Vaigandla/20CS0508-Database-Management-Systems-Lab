@@ -1,0 +1,19 @@
+
+  This demonstrates how to install SQL*Plus in Windows and access it from the command prompt.
+  
+  To install SQL*Plus in Windows:
+  1. Download the Oracle Instant Client from the official Oracle website.
+     link:- https://www.oracle.com/database/technologies/instant-client/downloads.html
+  2. Extract the downloaded ZIP file to a directory of your choice.
+  3. Add the directory containing the extracted files to the system's PATH environment variable.
+  
+  To access SQL*Plus from the command prompt:
+  1. Open the command prompt.
+  2. Type the command "sqlplus" followed by a space.
+  3. Enter the username and password when prompted.
+  
+  Example:
+  C:\> sqlplus
+  Enter username: your_username
+  Enter password: your_password
+ 
