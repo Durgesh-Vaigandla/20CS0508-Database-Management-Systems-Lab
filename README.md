@@ -96,3 +96,5 @@ Checkout the [EXP-3 DML Commands](https://github.com/Durgesh-Vaigandla/20CS0508-
          6 Komal              22 MP                    4500
          7 Muffy              24 Indore               10000
 ```
+
+Checkout the [EXP-4(A) Nested Queries](https://github.com/Durgesh-Vaigandla/20CS0508-Database-Management-Systems-Lab/blob/main/EXP-4(A)%20Nested%20Queries.sql).
